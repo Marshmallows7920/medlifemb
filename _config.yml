@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://medlifemb.ca
+title: Medlife UManitoba
+email: contact@medlifemb.ca
+author: Medlife
+description: > # "This description will be visible in search results and flex boxes etc. 
+  Developing equal access to healthcare, education, and a safe home, locally and abroad! 
+copyright: 'Copyright &copy; 2022 medlifemb.ca All Rights Reserved.'
+credits: 'Medlife UManitoba'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: instagram
+    url: https://www.instagram.com/uofm.medlife/
+  - title: mail
+    url: mailto:contact@medlifemb.ca
+  # - title: facebook
+    # url: https://www.instagram.com/uofm.medlife/

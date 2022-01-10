@@ -1,0 +1,10 @@
+---
+layout: default
+img: post02.jpg
+category: Services
+title: Service learning trips
+description:
+---
+  A Service Learning Trip is a week-long educational journey to Peru, Ecuador, Tanzania, or Nicaragua, where volunteers work hand in hand with the local community on development projects and mobile medical clinics. <br /><br />The trip allows volunteers to understand the realities of extreme poverty first hand, personally connects them with the communities that MEDLIFE supports, and ignites action within them to join the MEDLIFE Movement in the fight for a world free from the constraints of poverty.
+  <br /><br />
+  <a href="https://www.medlifemovement.org/service-learning-trips/">Learn More</a>
