@@ -1,14 +1,14 @@
 ---
 layout: default
-img: post01.jpg
+img: post011.jpg
 category: Services
 title: Info Session
 description:
 ---
-We will be hosting a virtual info night <br />
-<strong>February 10th at 7pm CT </strong><br />
+We will be hosting our second virtual info night <br />
+<strong>March 4th at 7pm CST</strong><br />
 for our upcoming Service Learning Trip!
 
 All degrees are welcome!
 
-Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJQ95bAPHzU_aGHFfhdJnRrTKHAnF3zjSKl3X7kQh3E9bcKg/viewform">Sign Up</a> to receive the zoom link! We look forward to seeing you there! If you have any questions feel free to <a href="#contact">contact us!</a>
+Please click here for the <a href="https://us02web.zoom.us/j/86820748394?pwd=Q0NVaURYcXB4elJOSHhncHJhYlkrZz09">Zoom Link</a>! We look forward to seeing you there! If you have any questions feel free to <a href="#contact">contact us!</a>
